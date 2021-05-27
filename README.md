@@ -14,4 +14,4 @@
 
 # The Problem / Situation
 - Design and implement a car rental system
-- *Sadly, I lost the spec to this project during a cloud migration 😭*
+- *Sadly, I lost the spec to this project during a cloud storage migration 😭*
